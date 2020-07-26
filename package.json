@@ -1,0 +1,19 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "Audie's first program",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AudieRaymos/first-project.git"
+  },
+  "author": "Audie Raymos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AudieRaymos/first-project/issues"
+  },
+  "homepage": "https://github.com/AudieRaymos/first-project#readme"
+}
