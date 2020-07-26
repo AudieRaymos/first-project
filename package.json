@@ -4,7 +4,7 @@
   "description": "Audie's first program",
   "main": "index.js",
   "scripts": {
-    "start": "npm run start"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/AudieRaymos/first-project/issues"
   },
-  "homepage": "https://github.com/AudieRaymos/first-project#readme"
+  "homepage": "https://github.com/AudieRaymos/first-project#readme",
+  "dependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.29"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
