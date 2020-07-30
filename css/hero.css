@@ -44,5 +44,24 @@ h2{
     color: #e70c19;
 }
 
-p{
+a{
+    color: #e70c19;
+}
+a:hover{
+    color: white;
+    background-color: #483a94;
+}
+
+footer{
+    background-color: #d14635;
+    text-align: center;
+    color: white;
+}
+
+footer a{
+    color: white;
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
 }
